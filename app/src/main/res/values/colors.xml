@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Кольори для темної теми (оновлені кольори) -->
+    <color name="pink_200">#FF80AB</color>
+    <color name="pink_500">#F50057</color>
+    <color name="pink_700">#C51162</color>
+    <color name="black">#121212</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Тема -->
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryVariant">#C51162</color>
+    <color name="colorAccent">#FF80AB</color>
+
+    <!-- Фон і поверхні -->
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#121212</color>
+
+    <!-- Текст -->
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextSecondary">#B0B0B0</color>
+
+    <!-- Кнопки та інші елементи -->
+    <color name="colorButton">#F50057</color>
+    <color name="colorButtonDisabled">#FF80AB</color>
+
+    <!-- Інші кольори для тіней, кнопок тощо -->
+    <color name="colorShadow">#000000</color>
+
+    <!-- Стиль для розгорнутого заголовка -->
+    <style name="CollapsingToolbarExpanded">
+        <item name="android:textColor">#FF80AB</item> <!-- Блакитний колір -->
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Стиль для згорнутого заголовка -->
+    <style name="CollapsingToolbarCollapsed">
+        <item name="android:textColor">#000000</item> <!-- Блакитний колір -->
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
+
